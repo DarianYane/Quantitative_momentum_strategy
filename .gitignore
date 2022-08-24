@@ -1,0 +1,10 @@
+algorithmic-trading/
+.ipynb_checkpoints/
+**/secrets.py
+.DS_Store
+__pycache__
+**/recommended_trades.xlsx
+**/momentum_strategy.xlsx
+venv/
+finished_files/001_equal_weight_S&P_500.ipynb
+
